@@ -1,0 +1,15 @@
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: false
+
+
+#spring:
+#  cassandra:
+#    username:
+#    password:
+#    keyspace-name:
+#    port:
+#    contact-points: 127:0:0:1
+
+
